@@ -578,72 +578,10 @@ button {
 
 /** mobile section **/
 
-
-/** clients section **/
-
-.clients {
-     margin-top: 40px;
-     padding-top: 60px;
-}
-
-.clients .titlepage h2 {
-     color: #202021;
-}
-
-.clients .titlepage span {
-     margin-left: 56px;
-}
-
-.clients_box {
-     text-align: center;
-     background: #e2e3e3;
-     padding: 50px 15px;
-     border-radius: 15px;
-     position: relative;
-}
-
-.clients_box p {
-     font-size: 17px;
-     line-height: 35px;
-}
-
-.clients_box::after {
-     position: absolute;
-     content: "";
-     width: 42px;
-     height: 67px;
-     bottom: -65px;
-     background: url(../images/cli_cross.png);
-     background-repeat: no-repeat;
-}
-
-.jonu {
-     padding-top: 72px;
-     text-align: center;
-}
-
-.jonu h3 {
-     padding: 0px 0px 0px 0px;
-     color: #0b0503;
-     font-size: 25px;
-}
-
-.jonu strong {
-     display: block;
-     color: #00aeef;
-     font-size: 17px;
-     padding-bottom: 50px;
-}
-
-
-/** end clients section **/
-
-
 /** contact section **/
 
 .contact {
      background: #042431;
-     margin-top: 90px;
      padding: 90px 0;
 }
 
