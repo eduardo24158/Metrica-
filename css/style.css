@@ -700,6 +700,18 @@ ul.cont li {
      text-align: left;
 }
 
+.ImageRedes{
+width: 20px; 
+height: 20px; 
+margin-right: 8px;
+}
+
+.listaRedes{
+display: flex; 
+align-items: center; 
+margin-bottom: 5px;
+}
+
 .copyright {
      margin-top: 90px;
      padding: 20px 0px;
@@ -721,6 +733,8 @@ ul.cont li {
 .copyright a:hover {
      color: #000;
 }
+
+
 
 
 /** end footer **/
