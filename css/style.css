@@ -374,7 +374,7 @@ button {
 .relative {
      position: absolute;
      top: 56%;
-     transform: translateY(-44%);
+     transform: translateY(-65%);
      padding: 0;
      bottom: auto;
 }
